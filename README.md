@@ -22,7 +22,7 @@ Combinatorial algorithms
     - [x]   [Blum Blum Shub](https://en.wikipedia.org/wiki/Blum_Blum_Shub)
     - [x]   [Lagged Fibonacci
         generator](https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator)
-    - [ ]   [Linear congruential
+    - [x]   [Linear congruential
         generator](https://en.wikipedia.org/wiki/Linear_congruential_generator)
     - [ ]   [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 
