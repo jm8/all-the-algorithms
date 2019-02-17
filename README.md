@@ -19,7 +19,7 @@ Combinatorial algorithms
 - [ ]   [Pseudorandom number
     generators](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) (uniformly
     distributed):
-    - [ ]   [Blum Blum Shub](https://en.wikipedia.org/wiki/Blum_Blum_Shub)
+    - [x]   [Blum Blum Shub](https://en.wikipedia.org/wiki/Blum_Blum_Shub)
     - [ ]   [Lagged Fibonacci
         generator](https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator)
     - [ ]   [Linear congruential
