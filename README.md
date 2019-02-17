@@ -312,7 +312,7 @@ Combinatorial algorithms
 - [ ]   Exchange sorts
     - [x]   [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort): for each pair of indices,
         swap the items if out of order
-    - [ ]   [Cocktail shaker sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) or
+    - [x]   [Cocktail shaker sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) or
         bidirectional bubble sort, a bubble sort traversing the list
         alternately from front to back and back to front
     - [ ]   [Comb sort](https://en.wikipedia.org/wiki/Comb_sort)
