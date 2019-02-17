@@ -309,16 +309,16 @@ Combinatorial algorithms
 
 #### Sequence sorting
 
-- [ ]   Exchange sorts
+- [x]   Exchange sorts
     - [x]   [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort): for each pair of indices,
         swap the items if out of order
     - [x]   [Cocktail shaker sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) or
         bidirectional bubble sort, a bubble sort traversing the list
         alternately from front to back and back to front
-    - [ ]   [Comb sort](https://en.wikipedia.org/wiki/Comb_sort)
-    - [ ]   [Gnome sort](https://en.wikipedia.org/wiki/Gnome_sort)
-    - [ ]   [Odd–even sort](https://en.wikipedia.org/wiki/Odd–even_sort)
-    - [ ]   [Quicksort](https://en.wikipedia.org/wiki/Quicksort): divide list into two, with
+    - [x]   [Comb sort](https://en.wikipedia.org/wiki/Comb_sort)
+    - [x]   [Gnome sort](https://en.wikipedia.org/wiki/Gnome_sort)
+    - [x]   [Odd–even sort](https://en.wikipedia.org/wiki/Odd–even_sort)
+    - [x]   [Quicksort](https://en.wikipedia.org/wiki/Quicksort): divide list into two, with
         all items on the first list coming before all items on the
         second list.; then sort the two lists. Often the method of
         choice
