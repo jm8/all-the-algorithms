@@ -557,7 +557,7 @@ Computational mathematics
 
 ### Number theoretic algorithms
 
-- [ ]   [Binary GCD algorithm](https://en.wikipedia.org/wiki/Binary_GCD_algorithm): Efficient
+- [x]   [Binary GCD algorithm](https://en.wikipedia.org/wiki/Binary_GCD_algorithm): Efficient
     way of calculating GCD.
 - [ ]   [Booth's multiplication
     algorithm](https://en.wikipedia.org/wiki/Booth's_multiplication_algorithm)
