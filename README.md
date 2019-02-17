@@ -22,7 +22,7 @@ Combinatorial algorithms
     - [x]   [Blum Blum Shub](https://en.wikipedia.org/wiki/Blum_Blum_Shub)
     - [x]   [Lagged Fibonacci
         generator](https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator)
-    - [ ]   [Linear congruential
+    - [x]   [Linear congruential
         generator](https://en.wikipedia.org/wiki/Linear_congruential_generator)
     - [ ]   [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 
@@ -310,7 +310,7 @@ Combinatorial algorithms
 #### Sequence sorting
 
 - [ ]   Exchange sorts
-    - [ ]   [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort): for each pair of indices,
+    - [x]   [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort): for each pair of indices,
         swap the items if out of order
     - [ ]   [Cocktail shaker sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) or
         bidirectional bubble sort, a bubble sort traversing the list
