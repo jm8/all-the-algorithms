@@ -18,7 +18,4 @@ def quick_sort(array, low = 0, high = -1):
         p = partition(array, low, high)
         quick_sort(array, low, p-1)
         quick_sort(array, p+1, high)
-    return a
-    
-a = [98, 154, 1, 45, 14, 1576, 19, 10, 91, 2]
-print(quick_sort(a))
+    return array
