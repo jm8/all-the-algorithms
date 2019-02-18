@@ -322,9 +322,9 @@ Combinatorial algorithms
         all items on the first list coming before all items on the
         second list.; then sort the two lists. Often the method of
         choice
-- [ ]   Humorous or ineffective
-    - [ ]   [Bogosort](https://en.wikipedia.org/wiki/Bogosort)
-    - [ ]   [Stooge sort](https://en.wikipedia.org/wiki/Stooge_sort)
+- [x]   Humorous or ineffective
+    - [x]   [Bogosort](https://en.wikipedia.org/wiki/Bogosort)
+    - [x]   [Stooge sort](https://en.wikipedia.org/wiki/Stooge_sort)
 - [ ]   Hybrid
     - [ ]   [Flashsort](https://en.wikipedia.org/wiki/Flashsort)
     - [ ]   [Introsort](https://en.wikipedia.org/wiki/Introsort): begin with quicksort and
