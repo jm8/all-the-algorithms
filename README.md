@@ -281,7 +281,7 @@ Combinatorial algorithms
 
 #### Sequence permutations
 
-- [ ]   [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher–Yates_shuffle) (also known
+- [x]   [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher–Yates_shuffle) (also known
     as the Knuth shuffle): randomly shuffle a finite set
 - [ ]   [Schensted algorithm](https://en.wikipedia.org/wiki/Schensted_algorithm): constructs a
     pair of [Young tableaux](https://en.wikipedia.org/wiki/Young_tableau) from a
