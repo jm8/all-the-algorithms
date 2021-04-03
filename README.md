@@ -625,7 +625,7 @@ Computational mathematics
     - [ ]   [Miller&ndash;Rabin primality
         test](https://en.wikipedia.org/wiki/Miller&ndash;Rabin_primality_test)
     - [ ]   [Sieve of Atkin](https://en.wikipedia.org/wiki/Sieve_of_Atkin)
-    - [ ]   [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+    - [x]   [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
     - [ ]   [Sieve of Sundaram](https://en.wikipedia.org/wiki/Sieve_of_Sundaram)
 
 ### Numerical algorithms
