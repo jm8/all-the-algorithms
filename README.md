@@ -620,7 +620,7 @@ Computational mathematics
     - [ ]   [AKS primality test](https://en.wikipedia.org/wiki/AKS_primality_test)
     - [ ]   [Baillie-PSW primality
         test](https://en.wikipedia.org/wiki/Baillie-PSW_primality_test)
-    - [ ]   [Fermat primality test](https://en.wikipedia.org/wiki/Fermat_primality_test)
+    - [x]   [Fermat primality test](https://en.wikipedia.org/wiki/Fermat_primality_test)
     - [ ]   [Lucas primality test](https://en.wikipedia.org/wiki/Lucas_primality_test)
     - [ ]   [Miller&ndash;Rabin primality
         test](https://en.wikipedia.org/wiki/Miller&ndash;Rabin_primality_test)
